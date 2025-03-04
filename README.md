@@ -74,13 +74,13 @@ Identify the most popular purchased products.
 ### KPI Gage
 View the target vs. actual sales for March 2025.
 
-## Grouped Column Chart
+### Grouped Column Chart
 Explore the total ticket purchases by gender, categorized in 5-year age bins starting from 15 years old.
 
-## Ring Chart
+### Ring Chart
 Examine the distribution of ticket sales by gender.
 
-## KPI Cards
+### KPI Cards
 Identify the number of "Super Fans," "Fans," and "Movie Enthusiasts" based on the Cinépolis membership system.
 
 ### Matrix
