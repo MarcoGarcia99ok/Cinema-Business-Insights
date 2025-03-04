@@ -1,0 +1,2577 @@
+﻿Cliente_ID,Edad,Género,Tipo_Cliente,Frecuencia_Visitas
+6191,46,F,Fanático,2
+6734,31,F,Fanático,2
+5426,40,F,Súper Fanático,3
+9322,29,M,Fan,1
+1769,51,F,Fan,1
+6311,38,M,Fanático,2
+2184,24,M,Fanático,2
+7396,55,F,Fan,1
+9666,52,F,Fanático,1
+3047,37,M,Fanático,2
+1189,25,F,Súper Fanático,1
+2899,33,F,Fanático,2
+4556,28,F,Fanático,1
+6393,45,F,Fan,1
+9433,41,M,Fan,1
+8513,50,M,Fan,1
+7235,39,M,Súper Fanático,4
+1775,27,M,Fanático,2
+2585,47,F,Fanático,2
+2021,38,M,Fanático,1
+4843,38,M,Fanático,1
+7873,39,M,Fanático,2
+5297,40,M,Fanático,2
+8629,57,M,Fanático,1
+8869,49,M,Fanático,1
+9529,58,M,Fan,1
+5859,52,M,Fanático,1
+9684,40,M,Fanático,1
+3062,27,F,Fan,1
+9006,43,F,Fanático,2
+3027,18,F,Fan,1
+7736,37,F,Fan,1
+6892,20,F,Fan,1
+7184,59,M,Fanático,2
+4104,56,M,Fanático,1
+3731,40,M,Súper Fanático,1
+6056,19,F,Fan,1
+9110,50,F,Fanático,2
+4840,21,M,Fan,1
+1502,38,M,Súper Fanático,5
+5488,19,M,Súper Fanático,5
+8035,24,F,Fanático,1
+1863,53,F,Fan,1
+6116,42,M,Fanático,1
+8574,45,M,Fanático,1
+5636,32,F,Fan,1
+4157,52,M,Fanático,1
+3693,26,M,Fan,1
+4627,57,F,Fanático,2
+2663,41,M,Fan,1
+6592,42,F,Fan,1
+2306,55,M,Fanático,1
+6864,22,F,Fanático,1
+5413,33,M,Fanático,2
+1663,51,F,Fan,1
+4763,42,M,Fan,1
+7585,49,F,Fan,1
+4581,57,M,Fanático,1
+8280,40,M,Fanático,1
+1698,22,F,Fanático,1
+5737,31,F,Fan,1
+6855,20,M,Fan,1
+6249,47,M,Fanático,1
+6791,34,F,Fanático,2
+4510,42,M,Fanático,1
+9958,36,F,Súper Fanático,3
+3931,36,F,Fanático,2
+7287,39,F,Fan,1
+5282,31,F,Fan,1
+1659,57,M,Fanático,1
+7546,37,F,Fanático,1
+9338,21,F,Fan,1
+9680,41,M,Fan,1
+5736,47,F,Súper Fanático,5
+9120,57,M,Súper Fanático,4
+6534,37,F,Súper Fanático,5
+1262,27,F,Súper Fanático,4
+9815,57,M,Súper Fanático,5
+3049,25,M,Fan,1
+5548,22,M,Fanático,2
+8158,52,F,Súper Fanático,4
+4170,38,F,Fanático,2
+5499,44,F,Súper Fanático,5
+2648,39,M,Fanático,1
+9445,31,M,Fanático,2
+1098,21,M,Súper Fanático,2
+3961,44,M,Fan,1
+3869,48,M,Súper Fanático,4
+9352,48,M,Súper Fanático,1
+5493,30,M,Fanático,2
+7015,38,F,Fanático,2
+5735,30,F,Fan,1
+9050,50,M,Fanático,2
+9754,42,M,Fanático,1
+1225,57,M,Fan,1
+8022,53,M,Súper Fanático,2
+8996,37,M,Fanático,2
+5642,18,M,Fanático,1
+8339,46,M,Fanático,1
+2069,35,F,Fanático,2
+2060,56,F,Súper Fanático,1
+1301,57,F,Fan,1
+1699,38,M,Fanático,1
+1190,55,M,Fanático,1
+3975,24,F,Fan,1
+9319,22,F,Fan,1
+6854,50,M,Fan,1
+6442,18,M,Fanático,1
+8455,58,F,Fanático,2
+8806,57,F,Súper Fanático,2
+2409,25,F,Fan,1
+9096,38,M,Fanático,1
+8343,58,F,Fan,1
+3806,29,F,Fanático,2
+2841,33,F,Súper Fanático,5
+7971,34,F,Fanático,1
+5780,43,M,Fan,1
+7655,39,M,Fan,1
+7002,56,M,Fan,1
+6919,21,M,Súper Fanático,5
+4769,53,M,Fanático,2
+7293,57,M,Súper Fanático,4
+8509,23,F,Fan,1
+5777,23,F,Fanático,2
+3491,56,F,Fanático,1
+4124,35,F,Fanático,2
+1004,18,M,Fanático,2
+8027,38,M,Fanático,2
+7966,45,M,Fanático,2
+5465,48,F,Fanático,2
+2693,57,M,Fan,1
+9311,42,M,Fan,1
+6177,36,F,Súper Fanático,4
+9308,20,F,Fan,1
+2931,42,M,Fanático,1
+2081,46,F,Fanático,1
+8805,29,M,Fan,1
+8404,53,F,Fan,1
+4343,25,M,Fanático,1
+8004,23,F,Fanático,1
+5249,55,M,Fanático,2
+8253,38,M,Fanático,1
+6188,30,F,Fanático,1
+7617,45,M,Fanático,2
+8421,39,F,Fan,1
+6881,40,M,Fanático,2
+3849,49,F,Fanático,1
+7905,51,F,Súper Fanático,5
+5611,26,M,Fanático,2
+7303,19,M,Súper Fanático,2
+2687,25,M,Fanático,1
+3427,47,M,Fanático,2
+6052,56,M,Súper Fanático,2
+6732,40,M,Fanático,1
+6536,43,F,Fanático,1
+8723,22,F,Fanático,1
+5107,41,M,Fanático,1
+9945,55,M,Fan,1
+9967,25,F,Súper Fanático,2
+1417,25,F,Fanático,1
+4974,23,M,Fan,1
+8668,20,M,Fanático,1
+1412,26,M,Fanático,2
+8164,51,M,Súper Fanático,4
+6988,18,F,Fanático,1
+2122,19,F,Fanático,2
+6104,30,M,Súper Fanático,3
+4440,21,F,Súper Fanático,5
+3914,41,M,Fan,1
+9787,47,F,Fanático,2
+1395,24,M,Fan,1
+9082,58,F,Súper Fanático,4
+3502,44,F,Fanático,1
+5946,42,F,Fan,1
+8266,43,M,Fanático,1
+6588,51,M,Fanático,1
+2167,25,F,Súper Fanático,1
+8860,42,M,Fan,1
+7541,43,M,Fanático,1
+8330,46,M,Fan,1
+9010,32,F,Fanático,2
+8241,53,F,Fan,1
+8056,29,M,Fanático,2
+2191,34,M,Súper Fanático,3
+7938,56,F,Fanático,2
+2540,46,M,Fan,1
+6541,33,M,Fanático,1
+2365,44,F,Súper Fanático,5
+9702,42,M,Súper Fanático,3
+4141,50,M,Fanático,1
+7588,56,M,Fanático,1
+9905,23,F,Fanático,1
+5268,30,F,Fanático,1
+4709,57,M,Fanático,1
+7619,26,M,Fanático,1
+4072,54,F,Fan,1
+1504,48,F,Fanático,1
+8576,41,M,Fan,1
+1133,59,M,Súper Fanático,1
+7316,20,M,Súper Fanático,2
+5175,18,M,Fan,1
+6348,24,F,Fan,1
+7190,55,F,Fan,1
+6645,43,F,Fanático,2
+9053,54,M,Fan,1
+8114,35,M,Súper Fanático,4
+6063,33,F,Fanático,1
+8575,18,M,Fanático,2
+7819,51,F,Fanático,2
+8483,20,M,Súper Fanático,4
+5964,44,M,Fan,1
+4775,49,M,Fanático,1
+6320,37,M,Fan,1
+8891,19,F,Fanático,1
+1924,21,F,Súper Fanático,1
+4324,50,F,Fanático,2
+8026,55,F,Súper Fanático,1
+1009,57,F,Fan,1
+8418,48,M,Fan,1
+2015,43,F,Fanático,1
+3193,38,F,Fan,1
+8449,28,M,Fan,1
+5000,56,F,Fanático,1
+9175,18,F,Súper Fanático,1
+3000,47,F,Fanático,1
+6989,28,M,Fanático,1
+8190,38,F,Fanático,2
+5809,23,F,Fan,1
+8245,57,F,Fanático,1
+6565,40,F,Fan,1
+4419,28,F,Fanático,2
+9865,37,F,Fanático,1
+5363,25,M,Fanático,1
+9580,38,F,Súper Fanático,1
+7544,42,F,Fanático,2
+5673,28,M,Fanático,2
+7881,21,F,Fanático,1
+7241,55,M,Fanático,2
+2331,34,F,Fanático,1
+6115,38,F,Fan,1
+8730,19,M,Fanático,1
+5892,41,F,Fanático,1
+7327,49,F,Fan,1
+3832,40,F,Fan,1
+5164,22,F,Fanático,2
+6569,51,F,Fanático,1
+2906,24,M,Súper Fanático,5
+9472,56,F,Fan,1
+1666,34,M,Fan,1
+7777,31,F,Fanático,1
+8956,53,M,Fan,1
+7981,21,F,Fanático,2
+7376,39,M,Fanático,2
+3593,58,F,Fanático,1
+8240,53,M,Súper Fanático,1
+3878,36,M,Súper Fanático,1
+2276,20,F,Fanático,2
+9150,39,M,Fanático,1
+1364,37,F,Fan,1
+6126,29,M,Súper Fanático,2
+6870,47,M,Fanático,2
+4345,51,F,Fan,1
+7229,24,F,Fanático,2
+5632,54,M,Fanático,1
+7168,27,M,Fanático,2
+9258,20,M,Súper Fanático,4
+7371,51,M,Fan,1
+8943,41,F,Fan,1
+7738,33,M,Fanático,1
+3739,37,M,Súper Fanático,5
+1876,21,F,Fanático,2
+2460,56,M,Fanático,1
+2733,45,F,Fan,1
+7986,39,F,Fan,1
+9434,58,M,Fanático,1
+6342,30,M,Fan,1
+9659,51,M,Fanático,1
+9195,53,F,Fanático,2
+3551,57,M,Fanático,1
+6560,54,F,Súper Fanático,5
+7469,24,M,Fan,1
+9915,29,F,Fanático,2
+5208,52,F,Fanático,1
+7233,43,M,Fan,1
+2917,21,M,Fanático,1
+7988,41,M,Fanático,1
+4744,34,F,Fan,1
+3219,28,F,Fan,1
+6287,54,F,Fanático,2
+9512,53,M,Súper Fanático,2
+4490,53,M,Fanático,1
+2604,24,M,Súper Fanático,3
+1235,34,M,Fan,1
+9567,40,F,Fanático,2
+3635,55,M,Fanático,2
+3560,43,M,Fan,1
+6951,20,F,Fanático,2
+7413,48,F,Fan,1
+5820,27,M,Fanático,1
+3898,59,F,Súper Fanático,4
+5227,57,M,Fanático,1
+2065,18,M,Fanático,2
+7943,30,M,Fan,1
+7565,52,M,Fanático,1
+3712,45,F,Fan,1
+5033,32,M,Súper Fanático,3
+4687,47,F,Fanático,2
+9389,42,M,Fan,1
+2202,27,M,Fanático,2
+6742,36,F,Fanático,2
+9669,49,F,Fan,1
+3204,34,M,Fan,1
+1950,30,M,Súper Fanático,5
+3645,38,M,Fan,1
+5612,46,M,Fanático,2
+7028,53,M,Fanático,1
+7359,48,F,Fan,1
+4719,52,F,Fanático,2
+3371,24,M,Fanático,2
+5225,24,F,Fanático,1
+7898,18,F,Súper Fanático,4
+1793,50,F,Fanático,1
+3116,24,F,Súper Fanático,1
+7166,48,F,Súper Fanático,3
+3443,51,M,Fanático,1
+8783,36,F,Fan,1
+1984,38,F,Fanático,1
+4531,46,M,Fanático,2
+4876,56,M,Súper Fanático,3
+9795,19,M,Fanático,1
+6109,22,M,Fanático,1
+4368,56,F,Súper Fanático,2
+2792,35,F,Fan,1
+4476,53,F,Súper Fanático,5
+4030,26,F,Fan,1
+2854,48,F,Fan,1
+6031,37,F,Fanático,1
+9393,20,F,Fanático,2
+5212,20,M,Fanático,2
+8970,18,F,Fanático,2
+2625,53,M,Súper Fanático,4
+9070,35,M,Fanático,1
+9609,58,F,Fan,1
+7783,30,M,Fanático,1
+5971,34,F,Fan,1
+2205,42,F,Fanático,1
+4572,34,M,Fanático,2
+5380,54,F,Fan,1
+4432,31,M,Fan,1
+4701,41,M,Fan,1
+6182,56,M,Fanático,1
+5422,28,M,Fanático,2
+3482,44,F,Fan,1
+3079,29,M,Fanático,2
+5524,19,F,Fan,1
+3065,34,F,Súper Fanático,2
+7645,37,F,Fanático,2
+6797,35,M,Súper Fanático,2
+7016,25,M,Súper Fanático,2
+5873,47,F,Súper Fanático,4
+7305,56,M,Fanático,2
+1054,20,M,Fanático,2
+4462,38,M,Fanático,2
+6954,58,F,Fanático,2
+9519,46,F,Súper Fanático,4
+4310,18,F,Fan,1
+8218,21,F,Fan,1
+4054,31,M,Fanático,1
+3143,59,M,Fan,1
+5547,20,M,Súper Fanático,4
+7612,18,F,Fanático,2
+7150,24,F,Fanático,2
+3198,28,F,Fanático,1
+4695,30,M,Fan,1
+2308,30,F,Súper Fanático,4
+9705,37,M,Súper Fanático,3
+7035,56,M,Fanático,2
+2555,18,F,Fan,1
+2279,54,M,Súper Fanático,2
+8083,24,F,Fan,1
+2387,29,F,Fanático,2
+3679,58,F,Fanático,2
+4186,48,F,Fan,1
+3599,34,F,Fanático,2
+2304,51,M,Fan,1
+3541,53,M,Súper Fanático,3
+9633,51,F,Fan,1
+9996,55,F,Fanático,1
+6475,40,M,Fan,1
+8184,35,M,Súper Fanático,2
+8141,22,F,Fanático,2
+2622,39,F,Fanático,2
+1341,58,F,Fan,1
+8992,18,F,Fan,1
+5263,45,F,Fan,1
+7136,56,F,Fanático,2
+3969,36,M,Fan,1
+4629,18,M,Fanático,1
+6941,32,M,Fan,1
+3866,59,F,Fanático,2
+6490,18,F,Fan,1
+9340,55,M,Fan,1
+8679,44,F,Súper Fanático,3
+9378,40,F,Fanático,1
+5150,26,F,Fan,1
+8479,30,M,Fan,1
+8715,50,M,Fanático,1
+2762,58,M,Fanático,2
+8101,33,F,Fan,1
+7122,24,M,Fan,1
+1153,35,M,Fanático,2
+3120,20,F,Fanático,2
+6760,45,F,Fanático,1
+2639,58,F,Fan,1
+2252,40,F,Súper Fanático,5
+4549,46,M,Fanático,2
+7667,37,M,Fanático,2
+5090,43,F,Súper Fanático,5
+6136,41,M,Fan,1
+8982,38,F,Fanático,1
+6895,32,M,Fanático,1
+2750,38,F,Fanático,1
+7609,57,M,Fanático,1
+4993,44,M,Fanático,1
+9238,39,F,Súper Fanático,4
+6913,55,F,Fanático,1
+1390,29,F,Fanático,1
+8686,54,F,Fanático,1
+9007,51,M,Fanático,2
+2500,40,M,Fanático,1
+4042,54,F,Súper Fanático,5
+4561,40,F,Fanático,2
+3667,22,F,Súper Fanático,1
+1130,59,F,Fanático,1
+3983,52,F,Fanático,2
+9230,21,M,Fanático,1
+6468,44,M,Fanático,1
+8564,27,F,Fanático,1
+9502,19,F,Fanático,1
+1545,41,M,Fanático,2
+4810,21,M,Fanático,2
+3032,59,F,Fan,1
+1271,21,F,Fan,1
+5361,42,F,Fan,1
+9190,28,F,Súper Fanático,5
+4760,40,F,Fan,1
+2165,59,M,Súper Fanático,5
+7467,59,M,Fanático,1
+8832,37,F,Súper Fanático,5
+9173,29,M,Súper Fanático,5
+9056,39,F,Fanático,1
+2828,46,M,Fan,1
+5805,18,M,Fan,1
+2868,20,F,Fanático,2
+8878,48,M,Súper Fanático,4
+6690,21,F,Fanático,2
+6429,23,F,Fanático,1
+4564,33,F,Fan,1
+8274,44,F,Fanático,2
+3265,24,F,Súper Fanático,1
+7402,29,M,Fan,1
+2796,49,F,Súper Fanático,2
+2913,43,M,Fan,1
+8657,55,F,Súper Fanático,4
+8312,18,M,Fanático,1
+5876,42,F,Fanático,1
+5675,53,F,Fan,1
+2290,33,F,Súper Fanático,4
+2218,42,F,Fan,1
+1954,39,F,Súper Fanático,5
+1974,55,F,Fanático,2
+4972,44,M,Fanático,2
+9228,44,M,Fan,1
+9987,35,F,Fanático,1
+6233,55,F,Súper Fanático,3
+3162,31,F,Fanático,1
+2591,54,M,Súper Fanático,2
+2312,24,M,Fanático,1
+3383,57,M,Fan,1
+2704,46,F,Fan,1
+3604,26,M,Fan,1
+5286,54,F,Fanático,1
+1556,55,F,Súper Fanático,4
+6150,50,M,Fan,1
+3719,35,M,Fanático,2
+4741,32,M,Fanático,1
+9780,47,F,Fanático,1
+1294,40,M,Súper Fanático,3
+2136,32,M,Fanático,2
+8009,57,M,Fanático,1
+2007,34,M,Fanático,1
+6352,25,M,Fanático,2
+1571,36,F,Fanático,2
+6084,50,F,Fan,1
+8059,31,M,Fanático,1
+8491,44,F,Fanático,2
+9073,30,F,Fanático,1
+9213,34,F,Fanático,2
+7353,25,F,Fan,1
+5811,38,M,Fan,1
+6346,34,F,Fan,1
+8813,40,M,Fan,1
+4356,48,M,Fan,1
+1038,54,M,Fanático,1
+2098,52,M,Fan,1
+4155,53,M,Fanático,1
+6658,21,F,Fanático,1
+1988,45,F,Fanático,2
+5179,56,M,Fanático,1
+6626,36,F,Fanático,2
+1933,46,M,Fanático,1
+4056,52,F,Fanático,2
+6390,33,M,Fanático,1
+2607,42,F,Fanático,2
+6776,33,M,Fanático,1
+9711,51,M,Fanático,2
+7342,51,F,Fan,1
+1959,19,M,Fanático,2
+6655,53,F,Fanático,1
+3946,56,M,Fan,1
+2875,54,F,Fan,1
+3433,36,M,Fanático,2
+5167,44,M,Súper Fanático,2
+2389,32,F,Fan,1
+6420,46,M,Fan,1
+3043,41,M,Fanático,2
+1778,27,M,Fanático,1
+7731,32,M,Fanático,1
+3720,26,M,Fanático,2
+9032,42,M,Fanático,2
+2949,24,F,Fanático,1
+8833,53,F,Fanático,1
+8014,20,M,Súper Fanático,3
+4041,33,F,Fanático,1
+2895,51,M,Fanático,2
+7082,23,M,Fan,1
+7917,49,F,Fan,1
+9907,32,M,Súper Fanático,5
+4389,58,F,Fanático,1
+3430,44,M,Fan,1
+1207,30,M,Fan,1
+1021,27,M,Súper Fanático,5
+8294,25,M,Súper Fanático,1
+5109,53,M,Fanático,2
+8179,58,F,Fanático,2
+2560,38,M,Fanático,1
+4638,43,M,Súper Fanático,2
+5790,55,F,Fanático,2
+4665,49,F,Fan,1
+1661,20,M,Fanático,1
+9946,34,M,Fanático,1
+7236,26,M,Fanático,1
+8005,25,M,Súper Fanático,4
+1956,47,F,Fan,1
+4453,56,F,Fan,1
+7295,57,F,Fan,1
+5703,34,F,Súper Fanático,5
+6631,25,F,Fan,1
+2394,56,M,Fan,1
+4714,51,F,Fan,1
+3958,19,F,Súper Fanático,3
+4591,21,M,Fanático,1
+1525,40,M,Fanático,1
+1374,31,M,Súper Fanático,5
+5648,40,F,Fanático,1
+2646,24,M,Súper Fanático,4
+9219,19,F,Fanático,1
+5356,49,M,Fan,1
+8062,54,M,Fanático,2
+1629,53,M,Fan,1
+6724,25,F,Fanático,1
+7656,54,M,Fanático,2
+4192,55,F,Fan,1
+3734,32,M,Fanático,2
+4568,18,F,Súper Fanático,1
+2390,59,M,Fanático,1
+2274,36,F,Súper Fanático,1
+4953,25,M,Súper Fanático,1
+1968,29,F,Fan,1
+1281,19,F,Fanático,1
+7262,30,M,Fan,1
+6178,52,F,Fanático,2
+2229,20,M,Fan,1
+9467,39,F,Fan,1
+2239,46,F,Fan,1
+1125,30,M,Fan,1
+8473,19,F,Fanático,1
+8595,26,F,Súper Fanático,1
+7294,29,F,Fan,1
+2969,22,F,Fanático,2
+5470,43,M,Fanático,2
+9320,56,F,Fanático,1
+2198,41,M,Fanático,1
+6238,32,M,Fanático,2
+7089,24,M,Fanático,2
+8705,33,F,Fan,1
+1986,39,F,Fanático,2
+9125,53,F,Fanático,2
+6105,57,M,Fanático,1
+8848,19,M,Súper Fanático,2
+4828,18,M,Fanático,1
+4173,40,M,Súper Fanático,5
+5114,45,M,Fanático,2
+8761,57,F,Fan,1
+2388,56,M,Fan,1
+2367,59,M,Fan,1
+3772,38,M,Fanático,1
+5806,26,M,Fanático,2
+3875,45,F,Fanático,1
+2440,54,M,Fanático,1
+7059,49,F,Súper Fanático,1
+8010,20,M,Fan,1
+3989,49,F,Fanático,2
+7228,54,F,Fan,1
+2177,45,F,Fan,1
+6252,33,M,Fanático,2
+9234,18,F,Fan,1
+7570,51,F,Fanático,1
+1406,31,F,Fanático,1
+6243,24,F,Fan,1
+9906,29,M,Súper Fanático,1
+1140,35,F,Fanático,1
+7012,24,F,Fan,1
+4610,57,F,Fanático,2
+8311,47,M,Fanático,1
+7787,33,F,Súper Fanático,3
+5445,34,M,Súper Fanático,2
+8052,52,M,Fan,1
+9636,52,F,Fanático,2
+6203,57,F,Fan,1
+6291,28,M,Fan,1
+7284,44,M,Fanático,2
+7869,47,F,Súper Fanático,3
+4097,26,F,Fanático,1
+6752,27,F,Fanático,2
+2316,20,M,Fanático,2
+7807,43,M,Fanático,1
+8227,27,F,Súper Fanático,2
+1145,28,F,Fanático,1
+4040,21,M,Fan,1
+1482,55,M,Fanático,2
+1630,53,M,Fanático,1
+9853,51,M,Fanático,1
+1987,42,M,Súper Fanático,4
+2100,51,M,Fan,1
+2343,46,M,Fanático,2
+7780,18,F,Fanático,2
+7602,37,F,Fanático,2
+6699,27,F,Fanático,2
+7764,27,F,Fanático,1
+8843,55,F,Fan,1
+6472,31,M,Fanático,2
+1707,37,F,Fan,1
+4713,31,M,Fan,1
+3475,25,M,Fanático,2
+8397,44,M,Fanático,2
+8979,48,M,Fanático,2
+8426,24,F,Fanático,1
+4874,48,F,Fan,1
+4374,49,F,Fanático,1
+3493,30,M,Fanático,2
+4083,32,M,Fanático,1
+2679,46,M,Fanático,1
+8446,41,F,Fanático,2
+7099,29,M,Fan,1
+1285,58,F,Fan,1
+5037,23,F,Fanático,1
+5895,48,F,Fanático,2
+3785,22,F,Súper Fanático,5
+5576,48,F,Fanático,1
+3408,56,M,Fanático,2
+3496,42,M,Fanático,2
+6299,51,M,Súper Fanático,2
+4267,31,M,Fanático,2
+9597,40,M,Fan,1
+9435,33,F,Súper Fanático,2
+1560,28,F,Fanático,1
+6548,52,F,Fanático,2
+8693,39,M,Fanático,1
+8842,27,M,Fanático,2
+8373,29,M,Fanático,1
+6656,43,M,Fanático,2
+5259,23,F,Fanático,2
+5917,39,F,Súper Fanático,3
+3530,23,F,Fan,1
+6772,54,F,Fanático,2
+3964,26,M,Fan,1
+1536,19,F,Fanático,2
+9734,50,M,Fan,1
+6777,34,F,Fanático,2
+3494,39,F,Fanático,1
+5349,48,F,Fanático,1
+7610,21,M,Fanático,1
+7488,48,F,Fanático,1
+1689,29,M,Fan,1
+6078,47,F,Fan,1
+6448,36,F,Fanático,2
+7406,55,M,Fanático,1
+2638,31,F,Fanático,2
+2382,31,F,Fan,1
+4292,45,M,Fanático,2
+5517,48,M,Fanático,1
+8870,53,M,Fanático,1
+2549,40,F,Fanático,2
+4716,49,M,Fanático,2
+8898,52,F,Fanático,2
+7793,59,M,Fanático,2
+7356,31,F,Fan,1
+8380,48,M,Fanático,1
+5592,39,M,Fanático,1
+5798,54,M,Fanático,1
+6887,26,M,Fanático,1
+6827,49,F,Fanático,2
+5719,25,F,Fanático,2
+5839,54,F,Súper Fanático,1
+4493,21,M,Fanático,2
+3672,49,M,Súper Fanático,1
+4191,29,F,Fan,1
+7272,52,F,Fanático,2
+4631,19,M,Fan,1
+8177,32,M,Fanático,1
+9123,48,F,Fanático,2
+8099,19,M,Súper Fanático,2
+5940,40,F,Súper Fanático,2
+4456,19,M,Fan,1
+9599,28,M,Súper Fanático,3
+2668,26,F,Fan,1
+1365,31,M,Fan,1
+5531,47,M,Fan,1
+9964,25,F,Fanático,1
+7511,29,M,Fan,1
+2246,42,F,Fanático,1
+4009,20,M,Fan,1
+2827,52,M,Súper Fanático,5
+9569,33,F,Fanático,2
+3196,34,M,Fanático,1
+6978,21,F,Fan,1
+9714,48,M,Fanático,1
+8569,22,F,Súper Fanático,2
+5583,48,M,Fan,1
+8128,36,M,Fan,1
+3461,23,F,Súper Fanático,1
+1685,25,F,Súper Fanático,5
+6341,55,F,Fan,1
+2256,19,M,Fanático,2
+8165,30,M,Súper Fanático,1
+9789,31,F,Súper Fanático,3
+8003,54,F,Fanático,1
+4537,24,M,Fanático,1
+5558,20,M,Fan,1
+5082,50,M,Súper Fanático,5
+4754,35,M,Fanático,1
+2376,46,F,Fan,1
+1022,44,M,Fanático,2
+8295,34,M,Fanático,2
+8353,29,F,Fanático,1
+1514,27,F,Fanático,1
+6343,22,M,Fan,1
+3520,25,F,Fanático,1
+4967,27,M,Fanático,1
+3159,42,F,Fanático,1
+3547,32,F,Fanático,2
+3649,36,F,Fanático,1
+2037,58,M,Fan,1
+8604,35,M,Fanático,2
+3634,32,F,Súper Fanático,2
+2124,35,M,Fanático,1
+6251,31,M,Fan,1
+2013,22,F,Fanático,1
+3023,56,F,Fanático,2
+6891,45,M,Fanático,1
+6036,24,M,Súper Fanático,2
+3563,29,M,Fanático,2
+5431,20,F,Fanático,1
+4959,26,M,Fanático,2
+1593,30,F,Fan,1
+4390,28,F,Súper Fanático,4
+1541,18,M,Fan,1
+1867,40,F,Fanático,2
+6469,21,M,Fanático,1
+2169,44,M,Fan,1
+3810,20,F,Fanático,2
+2019,34,F,Fanático,2
+2283,44,F,Súper Fanático,3
+9590,29,F,Fanático,2
+9266,21,F,Fanático,2
+4471,19,F,Fanático,1
+9691,50,M,Fan,1
+3097,34,M,Súper Fanático,4
+7397,28,M,Fanático,2
+3757,43,M,Fan,1
+2900,23,F,Fanático,1
+2449,52,F,Fanático,2
+8999,22,F,Fan,1
+3096,45,F,Súper Fanático,5
+9895,44,M,Súper Fanático,2
+4331,21,F,Fanático,1
+3978,43,M,Fanático,2
+5283,46,M,Fan,1
+7868,21,M,Fanático,1
+5713,41,M,Súper Fanático,1
+5998,44,M,Fanático,1
+9461,39,M,Fanático,1
+8896,29,M,Fanático,2
+6347,19,F,Súper Fanático,3
+9017,39,M,Fan,1
+1671,34,F,Fanático,2
+6591,25,M,Fanático,2
+3539,36,F,Fanático,1
+5260,58,M,Fan,1
+4670,23,F,Fanático,1
+2938,46,M,Súper Fanático,1
+8875,19,M,Fan,1
+1597,45,M,Fanático,1
+1572,57,M,Fan,1
+8097,55,F,Fan,1
+7566,58,M,Fan,1
+5624,45,F,Fanático,2
+4648,47,F,Fanático,2
+2537,18,M,Súper Fanático,1
+4137,32,F,Fanático,2
+4750,56,M,Fan,1
+9535,21,M,Fanático,2
+5666,29,F,Súper Fanático,1
+2727,37,M,Súper Fanático,3
+6055,26,M,Súper Fanático,5
+6774,33,M,Fanático,1
+1781,45,F,Súper Fanático,5
+7823,57,F,Fan,1
+8193,28,F,Fan,1
+6879,49,F,Fan,1
+8264,22,M,Fanático,1
+3274,47,F,Fanático,1
+7744,42,F,Fan,1
+6546,54,M,Fan,1
+1007,23,M,Fanático,2
+6416,31,M,Fanático,1
+8239,27,M,Fan,1
+3822,29,F,Súper Fanático,4
+1258,45,F,Fan,1
+2898,52,M,Fanático,1
+4200,18,M,Fanático,2
+1687,52,M,Fanático,2
+3307,58,F,Fan,1
+3591,43,F,Fan,1
+8183,53,M,Súper Fanático,3
+6108,28,M,Fanático,2
+8329,41,F,Fan,1
+2125,32,F,Fanático,2
+9438,25,M,Fanático,1
+7274,43,F,Fanático,1
+4864,32,F,Fanático,1
+1226,32,M,Fan,1
+1264,25,F,Súper Fanático,3
+1645,48,M,Súper Fanático,2
+8544,50,M,Fanático,2
+3990,21,M,Súper Fanático,5
+3504,25,M,Súper Fanático,2
+1587,29,M,Fan,1
+5079,35,F,Fanático,2
+4831,50,M,Súper Fanático,1
+2715,33,F,Fanático,1
+7450,28,M,Fanático,2
+7980,28,F,Fan,1
+8950,35,F,Fanático,2
+2089,55,F,Fanático,1
+2958,50,M,Fanático,2
+6779,30,F,Fanático,1
+1441,48,F,Súper Fanático,5
+7370,50,M,Fanático,2
+1948,28,M,Fan,1
+7115,19,F,Fanático,2
+5646,19,F,Fan,1
+2787,24,F,Súper Fanático,2
+2138,49,F,Fanático,2
+7362,30,M,Súper Fanático,5
+2377,40,M,Fan,1
+5596,47,M,Fanático,1
+6661,51,F,Fan,1
+1423,59,M,Súper Fanático,3
+5178,36,F,Fan,1
+8880,29,M,Fan,1
+8230,52,M,Fan,1
+2531,36,F,Fan,1
+3723,40,M,Fanático,2
+7816,51,M,Fanático,2
+1040,44,F,Fanático,2
+9259,37,M,Fanático,2
+8804,54,M,Fan,1
+4198,23,M,Fan,1
+3479,41,F,Fanático,2
+2492,36,M,Súper Fanático,5
+8851,48,M,Súper Fanático,3
+3044,43,F,Fan,1
+5577,37,F,Fan,1
+1342,21,M,Fanático,2
+7317,27,F,Fan,1
+7748,19,F,Fanático,1
+8986,25,M,Fanático,2
+4740,38,F,Súper Fanático,4
+2846,45,F,Súper Fanático,4
+1771,42,F,Fan,1
+9770,54,M,Súper Fanático,4
+1193,54,M,Fan,1
+5005,35,F,Fan,1
+7716,28,M,Fan,1
+5378,19,M,Fan,1
+8616,59,M,Fanático,2
+3800,24,F,Fan,1
+2455,30,F,Fanático,2
+6808,33,M,Fanático,1
+6093,38,F,Fan,1
+2159,31,M,Súper Fanático,1
+5987,35,M,Fan,1
+1340,44,F,Fan,1
+1703,42,M,Fanático,2
+6482,37,F,Fan,1
+2800,28,F,Fanático,2
+6670,42,M,Súper Fanático,3
+2517,41,M,Súper Fanático,3
+2356,48,M,Súper Fanático,4
+9210,25,F,Fan,1
+7132,38,M,Fanático,2
+7246,45,M,Súper Fanático,4
+5615,35,M,Fan,1
+9365,45,F,Fanático,1
+7574,33,F,Fan,1
+7993,48,M,Fanático,1
+6443,23,M,Fanático,2
+9611,55,F,Fanático,1
+2774,49,F,Fan,1
+4808,54,M,Fanático,1
+8922,36,M,Fan,1
+6054,49,M,Fanático,1
+1201,20,M,Fanático,1
+5658,26,F,Súper Fanático,2
+2628,37,F,Fanático,1
+7031,25,M,Fan,1
+5008,42,M,Fanático,2
+3466,36,M,Súper Fanático,4
+8980,23,M,Fan,1
+5669,25,F,Súper Fanático,5
+2130,44,F,Fanático,1
+3658,21,F,Fanático,1
+5020,19,M,Súper Fanático,4
+4259,56,F,Súper Fanático,4
+2823,55,M,Fanático,1
+4243,18,F,Fan,1
+2141,35,M,Fan,1
+1006,40,F,Súper Fanático,1
+5928,35,M,Fanático,2
+6906,44,F,Fanático,2
+8611,42,M,Fanático,2
+2442,56,F,Súper Fanático,3
+2829,20,F,Fan,1
+4699,21,F,Fanático,2
+2054,31,F,Fanático,2
+8069,29,F,Súper Fanático,5
+7218,29,M,Fan,1
+7591,34,M,Fan,1
+3309,57,F,Fanático,1
+1910,33,M,Fan,1
+7628,20,M,Fanático,2
+6668,53,F,Fanático,1
+9036,28,F,Fan,1
+1785,56,M,Fanático,2
+3416,35,M,Fanático,2
+5154,57,M,Fan,1
+2936,50,M,Súper Fanático,2
+4236,29,M,Súper Fanático,5
+2932,30,F,Fanático,1
+5916,37,F,Fanático,1
+2439,19,M,Fanático,1
+5857,36,F,Fanático,2
+1382,35,F,Fanático,1
+9491,53,M,Fan,1
+7626,34,F,Súper Fanático,3
+7652,32,F,Fan,1
+4835,48,M,Fan,1
+3567,42,M,Fan,1
+9848,31,F,Fanático,1
+4730,57,F,Fanático,1
+9458,37,F,Fanático,1
+4630,43,F,Fan,1
+7538,21,M,Súper Fanático,1
+2207,45,F,Fanático,2
+1557,30,F,Fan,1
+1882,28,M,Fanático,1
+6867,27,F,Súper Fanático,2
+3808,49,F,Súper Fanático,4
+4536,45,F,Fanático,2
+4802,29,F,Fanático,2
+2970,19,M,Fanático,2
+5258,26,F,Fanático,2
+8084,34,M,Súper Fanático,4
+4935,27,M,Fanático,2
+3490,51,M,Súper Fanático,2
+8661,40,F,Súper Fanático,4
+5117,58,F,Fanático,2
+4906,30,F,Fanático,2
+6929,33,F,Fanático,2
+2999,48,F,Fan,1
+4735,36,F,Fanático,2
+8901,42,M,Súper Fanático,3
+8537,48,F,Súper Fanático,4
+9733,31,M,Fanático,2
+4363,53,F,Fanático,1
+7144,55,M,Fanático,2
+9068,41,F,Fan,1
+9448,54,M,Fanático,1
+4175,18,M,Fanático,2
+6037,43,F,Fan,1
+9605,32,F,Fan,1
+4426,50,F,Fan,1
+6409,29,F,Fanático,1
+3130,24,F,Fanático,2
+8547,31,F,Fanático,2
+7465,48,F,Fan,1
+3555,36,M,Súper Fanático,5
+3951,58,M,Fanático,2
+3368,21,M,Fanático,1
+6789,20,F,Fan,1
+2556,48,M,Fan,1
+8480,39,F,Fanático,2
+1182,31,M,Fan,1
+8651,26,M,Fan,1
+9851,44,F,Fan,1
+7555,50,M,Fan,1
+9244,24,M,Súper Fanático,4
+2228,59,M,Fanático,1
+7046,44,M,Fanático,2
+5945,21,F,Súper Fanático,1
+8016,38,F,Súper Fanático,2
+8758,32,M,Fanático,1
+8161,55,F,Fan,1
+2809,23,F,Súper Fanático,3
+7056,19,F,Fanático,1
+8818,26,M,Fanático,2
+6738,47,M,Fanático,2
+6793,45,M,Fanático,2
+3224,53,F,Fanático,1
+9662,34,F,Fanático,1
+8094,28,F,Súper Fanático,5
+1234,54,M,Fanático,1
+4607,52,F,Fanático,1
+6904,29,M,Fanático,1
+6832,37,F,Súper Fanático,2
+8122,46,M,Fanático,2
+6672,59,M,Súper Fanático,5
+8935,56,M,Fanático,2
+6355,46,M,Fanático,1
+6574,52,F,Fanático,1
+3257,26,M,Súper Fanático,1
+5424,45,F,Fanático,2
+4893,42,M,Fan,1
+2772,24,M,Fan,1
+2751,39,F,Fan,1
+8170,45,F,Fanático,1
+4220,21,F,Fan,1
+9547,49,F,Fanático,1
+7708,34,M,Fanático,1
+4748,42,F,Fanático,2
+9016,29,F,Súper Fanático,5
+1674,53,M,Fan,1
+3158,21,F,Fanático,2
+4253,55,F,Súper Fanático,3
+9931,58,F,Fanático,2
+4923,42,M,Fanático,1
+3745,18,M,Fanático,2
+6818,39,F,Fanático,1
+5063,40,M,Fanático,2
+9224,58,M,Fan,1
+7516,30,F,Fan,1
+4718,46,F,Fan,1
+5552,24,M,Fanático,1
+9835,53,F,Fan,1
+6345,21,F,Súper Fanático,5
+2102,20,F,Súper Fanático,2
+9707,46,M,Fanático,1
+7683,30,M,Fan,1
+1025,21,M,Fanático,2
+8468,37,F,Fanático,1
+9652,48,M,Fanático,2
+6102,54,F,Fan,1
+9682,25,M,Súper Fanático,1
+1215,48,F,Fanático,2
+3606,26,M,Súper Fanático,1
+8763,58,M,Fan,1
+3295,57,F,Fanático,2
+2946,18,M,Súper Fanático,1
+6241,26,F,Súper Fanático,2
+8557,27,F,Fanático,2
+6085,54,F,Súper Fanático,3
+1492,29,F,Fan,1
+8888,43,F,Fanático,2
+5958,33,M,Súper Fanático,1
+3743,45,M,Fanático,2
+8160,58,F,Súper Fanático,2
+9548,54,M,Fan,1
+8186,52,F,Fanático,1
+1619,54,M,Fan,1
+4642,32,M,Fan,1
+2296,53,F,Súper Fanático,1
+9436,39,F,Fan,1
+6366,54,F,Fanático,2
+9199,32,F,Súper Fanático,5
+7976,18,F,Fanático,2
+4667,50,F,Fanático,1
+9277,21,F,Fanático,2
+3468,25,F,Súper Fanático,4
+2636,27,F,Fanático,1
+5009,52,F,Fanático,2
+3217,32,F,Súper Fanático,3
+5444,46,M,Fanático,2
+2676,26,F,Súper Fanático,1
+3787,59,M,Fan,1
+7689,54,F,Fanático,1
+4743,27,M,Fanático,1
+3451,51,M,Fan,1
+8778,29,M,Súper Fanático,4
+4929,23,F,Súper Fanático,4
+5369,29,M,Fanático,2
+5956,18,F,Fanático,1
+4162,52,M,Fanático,2
+4008,48,F,Fan,1
+9345,57,M,Súper Fanático,4
+4786,37,F,Súper Fanático,4
+8423,46,M,Súper Fanático,1
+1660,36,F,Fan,1
+2132,32,M,Fan,1
+8812,21,M,Fanático,1
+9275,54,F,Fanático,1
+4180,49,M,Fanático,1
+1614,33,F,Fan,1
+5570,18,F,Fanático,2
+1270,38,F,Fanático,1
+1289,39,F,Fanático,2
+7614,49,F,Súper Fanático,1
+1278,18,F,Fanático,2
+8997,55,F,Fanático,1
+4832,33,F,Súper Fanático,5
+7534,42,M,Fan,1
+5307,58,F,Súper Fanático,4
+9533,20,M,Fan,1
+4109,54,M,Fanático,2
+4240,24,M,Fan,1
+2849,25,M,Fan,1
+7680,28,F,Fanático,2
+1205,37,F,Fanático,1
+8214,21,M,Súper Fanático,2
+6141,53,M,Fanático,2
+2991,49,F,Fanático,1
+4273,42,M,Fan,1
+9712,52,F,Súper Fanático,3
+4551,52,M,Súper Fanático,3
+1152,46,M,Súper Fanático,3
+3610,23,M,Fanático,2
+8361,35,F,Fanático,1
+2661,28,M,Súper Fanático,4
+4489,43,M,Fan,1
+3524,29,F,Fan,1
+5357,50,F,Fanático,2
+3292,38,F,Súper Fanático,1
+8742,55,F,Fanático,2
+2903,24,M,Fan,1
+8106,29,M,Súper Fanático,1
+2567,52,F,Súper Fanático,4
+9560,45,F,Súper Fanático,2
+2907,22,M,Súper Fanático,5
+2293,45,M,Fan,1
+7871,46,F,Fanático,2
+4922,57,F,Fan,1
+1992,59,F,Fan,1
+3240,51,F,Fanático,2
+1389,54,M,Fanático,2
+9850,28,F,Fanático,2
+2481,56,F,Fan,1
+8262,41,F,Fanático,1
+4093,54,M,Fan,1
+5068,54,M,Fanático,2
+8951,30,M,Súper Fanático,2
+5595,41,M,Súper Fanático,1
+1112,23,M,Fan,1
+1139,55,F,Fanático,1
+9708,23,F,Fan,1
+7989,38,M,Súper Fanático,1
+4951,46,M,Fanático,1
+9058,58,F,Fanático,1
+7432,21,M,Fan,1
+4765,53,M,Fanático,2
+5855,22,M,Fan,1
+6911,48,F,Fan,1
+5456,59,M,Súper Fanático,3
+6693,55,F,Fanático,2
+7160,24,M,Súper Fanático,3
+2988,58,M,Fanático,1
+8162,32,M,Fan,1
+9399,25,F,Fanático,2
+7309,44,M,Fanático,2
+2518,34,F,Súper Fanático,4
+3600,37,F,Fan,1
+4554,39,F,Súper Fanático,1
+2742,57,M,Fan,1
+8519,38,F,Fanático,2
+5195,38,F,Fan,1
+3305,55,F,Fan,1
+3642,26,M,Súper Fanático,5
+7409,26,F,Súper Fanático,5
+5757,56,M,Fan,1
+2271,59,M,Fanático,2
+9801,34,M,Súper Fanático,5
+7124,46,M,Fan,1
+5396,41,M,Fanático,1
+8304,52,M,Fanático,1
+2920,20,M,Fanático,2
+3093,35,F,Fan,1
+5937,31,F,Fanático,1
+3101,59,F,Fanático,1
+2779,45,F,Fan,1
+4676,43,M,Fan,1
+9089,26,F,Fan,1
+5138,54,M,Fanático,1
+5017,53,F,Súper Fanático,4
+6166,39,F,Fanático,2
+6485,48,M,Fan,1
+6039,24,F,Súper Fanático,2
+9252,44,M,Fanático,1
+4901,37,F,Fan,1
+2361,22,M,Fanático,1
+6283,52,M,Fanático,1
+2993,46,M,Súper Fanático,4
+2014,21,F,Fanático,2
+9685,35,M,Fanático,1
+9024,51,F,Fan,1
+3912,26,F,Fan,1
+5744,44,M,Fanático,1
+3817,24,F,Fan,1
+5458,53,M,Fan,1
+9933,34,F,Fanático,1
+8697,59,F,Fanático,1
+8352,38,M,Fan,1
+9326,19,F,Fanático,1
+9003,19,F,Fan,1
+4074,58,F,Fan,1
+9312,22,F,Fanático,2
+6103,45,F,Fanático,2
+3761,57,M,Súper Fanático,4
+1241,58,F,Súper Fanático,3
+1802,51,M,Fanático,2
+1195,29,M,Súper Fanático,5
+3330,44,F,Fanático,2
+9468,38,M,Fan,1
+4927,38,F,Súper Fanático,1
+7121,24,F,Fanático,2
+3854,30,M,Fanático,1
+7972,51,M,Fanático,1
+3594,40,M,Fan,1
+1086,45,M,Fanático,1
+9143,43,F,Fanático,1
+3773,21,M,Fan,1
+2700,44,M,Fanático,2
+2647,53,M,Fan,1
+9676,57,F,Súper Fanático,4
+9912,58,F,Súper Fanático,1
+8081,31,M,Fan,1
+2673,43,F,Fanático,1
+8178,48,M,Súper Fanático,2
+6628,35,F,Fan,1
+4005,19,F,Fanático,2
+3242,56,M,Fanático,1
+9640,34,F,Súper Fanático,3
+6618,39,F,Fanático,2
+5188,59,F,Fan,1
+5927,39,M,Fanático,2
+5390,58,F,Fanático,1
+6388,52,M,Fanático,1
+1192,23,F,Fanático,2
+7314,28,F,Fan,1
+2788,52,M,Fan,1
+4700,28,F,Fan,1
+7773,36,M,Fanático,2
+5434,19,F,Fan,1
+5234,30,M,Fan,1
+7801,50,M,Fan,1
+7328,43,M,Fanático,1
+7476,51,M,Fan,1
+7079,54,F,Súper Fanático,5
+1002,38,F,Fan,1
+3890,29,F,Fanático,1
+7239,47,M,Fanático,1
+1897,26,F,Fan,1
+1670,31,F,Fanático,1
+7460,49,M,Fanático,2
+6255,31,F,Súper Fanático,4
+7457,49,M,Fanático,2
+4792,21,M,Fanático,1
+6330,53,M,Fan,1
+3618,49,M,Súper Fanático,2
+3942,27,M,Fan,1
+1990,59,F,Fan,1
+9995,35,M,Fanático,2
+6876,21,M,Fanático,1
+3891,54,F,Fan,1
+4340,40,F,Súper Fanático,1
+6944,24,M,Súper Fanático,4
+2629,53,F,Fanático,1
+9841,23,M,Fan,1
+4278,58,F,Fanático,1
+3561,33,F,Fan,1
+1370,31,M,Fanático,2
+8485,50,F,Fan,1
+5334,31,M,Fanático,2
+7204,24,F,Fanático,2
+7111,55,M,Fan,1
+1922,57,F,Fan,1
+4046,22,M,Fanático,1
+8647,43,M,Fanático,2
+4940,51,F,Fanático,2
+1160,37,M,Fan,1
+5500,37,F,Fanático,2
+4759,42,M,Fanático,2
+3103,36,F,Súper Fanático,1
+9092,50,M,Fanático,2
+3378,53,F,Fanático,1
+6669,55,M,Fan,1
+9490,20,M,Fan,1
+7623,48,M,Fanático,1
+2474,26,F,Fanático,1
+3850,27,F,Súper Fanático,3
+7644,24,M,Súper Fanático,3
+4504,30,M,Súper Fanático,4
+8609,24,F,Súper Fanático,2
+5804,50,M,Fan,1
+1067,46,M,Súper Fanático,3
+5478,51,F,Súper Fanático,5
+4521,31,M,Súper Fanático,1
+8082,18,F,Fan,1
+3258,21,F,Fanático,1
+7838,48,F,Fanático,1
+4262,40,M,Fanático,1
+6780,38,M,Fanático,1
+6232,23,F,Fanático,2
+8845,30,M,Fanático,2
+5383,48,F,Súper Fanático,2
+8031,33,M,Súper Fanático,3
+3904,56,M,Súper Fanático,4
+1917,33,M,Fanático,1
+7982,22,F,Fan,1
+2678,31,M,Súper Fanático,5
+8086,35,M,Fanático,2
+5749,19,M,Fanático,2
+5529,32,F,Fan,1
+6162,31,M,Fanático,1
+8389,30,M,Fan,1
+8323,56,M,Fan,1
+4020,19,F,Fan,1
+3789,59,F,Fanático,1
+8605,29,F,Fanático,1
+9135,45,M,Súper Fanático,5
+8175,51,M,Fan,1
+6021,44,F,Fanático,2
+7582,41,M,Fanático,1
+3566,18,F,Fanático,1
+2262,39,M,Súper Fanático,2
+8382,38,F,Fan,1
+3259,29,F,Fan,1
+1464,32,F,Súper Fanático,5
+4805,50,F,Fanático,1
+6750,47,F,Fanático,1
+4856,48,F,Fanático,1
+7034,34,M,Fanático,2
+7065,50,M,Fanático,2
+9954,52,M,Fanático,1
+3775,59,M,Fanático,2
+8972,58,M,Súper Fanático,1
+9775,40,F,Fan,1
+9301,38,M,Súper Fanático,5
+1649,41,F,Fanático,2
+8587,27,F,Súper Fanático,3
+5131,34,M,Fan,1
+6457,45,F,Fan,1
+8542,38,M,Fan,1
+4373,54,M,Fanático,1
+2289,36,F,Súper Fanático,3
+4136,45,F,Fanático,2
+7324,26,F,Súper Fanático,5
+6208,58,M,Fanático,2
+6067,56,M,Fanático,1
+7094,39,F,Súper Fanático,2
+4103,37,F,Súper Fanático,5
+8124,44,F,Fanático,2
+1446,59,F,Súper Fanático,3
+1186,44,M,Fan,1
+2881,24,M,Fanático,1
+7139,47,M,Fan,1
+2695,39,F,Fanático,1
+1052,36,M,Fan,1
+8579,53,M,Fanático,2
+7901,57,F,Súper Fanático,1
+7855,51,F,Súper Fanático,3
+5482,55,M,Fan,1
+6918,22,M,Fan,1
+4558,29,M,Fan,1
+5620,26,F,Fan,1
+9112,33,F,Súper Fanático,1
+1336,55,F,Fan,1
+4968,27,M,Fan,1
+4129,54,F,Fan,1
+5204,55,F,Fan,1
+2134,33,F,Fanático,1
+9102,30,M,Súper Fanático,2
+9347,54,M,Fanático,1
+8678,45,M,Fanático,1
+7751,20,M,Fanático,1
+2117,58,F,Fanático,1
+7771,42,M,Fan,1
+3696,32,F,Súper Fanático,2
+3786,41,M,Fanático,1
+4791,41,M,Fanático,2
+2504,26,F,Fanático,2
+6048,53,F,Fanático,2
+4303,49,F,Súper Fanático,1
+8850,48,F,Fanático,2
+9924,54,M,Fan,1
+9615,54,M,Fanático,2
+9100,19,F,Fan,1
+5322,34,F,Fan,1
+7999,32,F,Fanático,2
+8282,36,M,Fan,1
+5763,21,M,Fanático,1
+2051,42,F,Fanático,2
+8538,50,M,Súper Fanático,4
+7320,47,F,Súper Fanático,1
+3105,52,F,Fan,1
+8737,32,M,Fan,1
+2251,37,M,Súper Fanático,4
+6305,30,F,Fan,1
+6869,25,M,Fan,1
+5992,47,F,Fanático,1
+3863,26,F,Fanático,1
+5567,42,F,Fanático,1
+1183,58,F,Súper Fanático,4
+9728,33,F,Fanático,1
+2273,59,M,Fan,1
+2096,20,F,Fanático,1
+9002,35,F,Súper Fanático,3
+4354,59,M,Fanático,2
+8299,53,F,Súper Fanático,4
+5765,25,M,Fan,1
+6552,35,M,Fanático,1
+7589,22,F,Fan,1
+3341,25,M,Fanático,1
+1249,48,M,Fan,1
+9721,20,M,Fanático,1
+5440,25,M,Fan,1
+4783,54,M,Fanático,2
+5287,21,M,Fanático,2
+2716,31,M,Súper Fanático,4
+2260,50,F,Fanático,2
+1584,21,M,Fanático,2
+6898,55,F,Fan,1
+5939,25,F,Fanático,2
+1890,39,M,Súper Fanático,1
+9923,37,M,Fanático,2
+9806,19,M,Fanático,1
+2719,58,F,Fan,1
+8000,22,M,Fan,1
+6558,18,M,Súper Fanático,5
+3432,34,M,Fanático,1
+7837,27,M,Fan,1
+6454,54,F,Fan,1
+3028,57,F,Súper Fanático,4
+5591,48,F,Fanático,2
+3821,18,F,Fan,1
+4580,29,F,Fanático,1
+3462,30,M,Fan,1
+8984,50,F,Fan,1
+7169,41,M,Fanático,2
+5485,52,M,Fan,1
+7289,42,F,Fan,1
+6368,21,M,Fan,1
+8566,39,M,Fan,1
+2003,21,M,Fanático,2
+2635,36,M,Fan,1
+2073,39,F,Súper Fanático,5
+2956,50,M,Fan,1
+1807,46,F,Fan,1
+3284,18,F,Fan,1
+1757,38,F,Súper Fanático,3
+4847,40,M,Fanático,2
+5198,37,M,Fanático,1
+8119,54,F,Fanático,2
+9849,19,F,Fanático,2
+1422,53,F,Fanático,2
+5266,46,F,Fanático,1
+3710,49,M,Fanático,1
+4164,50,F,Fan,1
+4217,53,F,Fanático,1
+2764,19,F,Súper Fanático,3
+3671,24,M,Fanático,2
+4177,37,M,Fanático,1
+8263,33,F,Fanático,2
+1808,55,M,Fan,1
+1725,54,M,Fanático,2
+8701,56,F,Fanático,2
+3197,21,F,Fanático,1
+6634,21,F,Fanático,1
+3123,20,M,Fan,1
+2814,51,F,Fanático,1
+1124,41,F,Fan,1
+3971,58,M,Fanático,2
+8415,31,F,Fan,1
+1717,41,M,Fanático,1
+7782,59,F,Fan,1
+9307,23,F,Fanático,1
+6578,44,F,Fan,1
+7548,34,M,Fanático,1
+7197,21,M,Fan,1
+9975,29,M,Súper Fanático,4
+2553,44,M,Fanático,1
+5586,26,M,Fanático,1
+6877,38,M,Fanático,2
+5922,40,M,Súper Fanático,4
+5686,32,M,Fanático,2
+3059,35,F,Fanático,1
+1016,46,M,Fan,1
+5471,56,F,Fanático,1
+5815,59,M,Fan,1
+7543,35,F,Fanático,1
+2094,53,M,Súper Fanático,5
+4195,48,M,Fanático,1
+7940,49,M,Fanático,2
+6555,35,M,Súper Fanático,5
+8478,33,M,Súper Fanático,1
+5933,34,M,Fan,1
+3965,51,F,Fanático,1
+4939,42,F,Fan,1
+2810,32,F,Fanático,1
+2909,32,M,Súper Fanático,5
+3581,26,M,Fanático,1
+1931,22,M,Fanático,2
+7382,46,F,Fanático,2
+2032,31,F,Fanático,2
+2873,26,F,Fan,1
+7781,30,M,Fan,1
+1277,57,F,Fan,1
+6308,18,F,Súper Fanático,2
+1287,31,F,Fanático,2
+7337,43,F,Fanático,1
+6983,19,M,Fan,1
+1926,39,F,Fan,1
+6002,35,M,Fanático,1
+4398,43,M,Súper Fanático,5
+3654,27,F,Fan,1
+2371,26,M,Fanático,2
+6300,29,M,Fanático,1
+7553,49,M,Fan,1
+8498,18,M,Fan,1
+1011,18,M,Fanático,2
+3842,34,M,Fan,1
+3077,49,M,Fanático,2
+6856,45,M,Súper Fanático,4
+9745,59,M,Fan,1
+7897,55,M,Fan,1
+7155,43,M,Fan,1
+4809,19,M,Fanático,1
+8452,53,F,Fan,1
+3172,56,F,Súper Fanático,1
+3669,20,M,Fanático,1
+8825,42,M,Fan,1
+6247,33,F,Fanático,1
+7135,41,M,Fanático,1
+8189,55,M,Fan,1
+5535,52,F,Fanático,1
+1662,55,F,Fan,1
+6060,58,F,Fanático,2
+6874,22,M,Súper Fanático,1
+8148,23,F,Fan,1
+9872,32,M,Fanático,2
+1609,51,M,Fan,1
+4866,19,M,Fan,1
+3253,29,F,Fanático,2
+2268,28,F,Fanático,2
+5571,45,F,Fanático,2
+7394,24,F,Fan,1
+1325,46,M,Fanático,2
+5932,50,M,Fan,1
+9832,39,F,Fanático,1
+8754,57,F,Fanático,2
+3575,44,M,Fan,1
+2581,36,M,Fanático,2
+4966,24,F,Fanático,2
+8493,29,F,Fanático,2
+6594,32,M,Fan,1
+2644,27,F,Fanático,1
+1242,27,M,Fanático,1
+8269,44,M,Fanático,1
+9362,48,M,Fanático,2
+7331,56,M,Fan,1
+8977,50,F,Fanático,1
+1298,53,M,Súper Fanático,5
+5232,37,F,Fanático,1
+3799,33,M,Fanático,1
+6326,40,F,Fanático,1
+3657,20,F,Fan,1
+3949,54,M,Fan,1
+5837,54,F,Súper Fanático,4
+2243,33,F,Súper Fanático,2
+2466,34,F,Fanático,2
+7502,34,F,Fan,1
+9106,25,F,Fanático,1
+6540,22,M,Fan,1
+1599,44,M,Fanático,2
+9792,32,F,Fanático,1
+6599,40,F,Fanático,1
+8707,47,M,Fanático,2
+5633,20,F,Fanático,1
+8008,40,F,Súper Fanático,3
+9989,57,M,Fanático,1
+2773,28,M,Súper Fanático,1
+1946,19,F,Fan,1
+1506,35,F,Fan,1
+9697,30,M,Súper Fanático,1
+2192,50,F,Súper Fanático,3
+2464,47,F,Fanático,1
+7106,24,F,Fan,1
+2211,47,F,Fanático,2
+1643,29,F,Fanático,1
+5386,36,M,Fanático,1
+3339,49,M,Fan,1
+6930,25,F,Fanático,1
+6275,27,M,Fanático,2
+9750,29,F,Fanático,1
+5516,40,M,Fanático,2
+9111,43,M,Fanático,1
+8837,43,M,Súper Fanático,5
+6185,59,F,Fan,1
+7365,41,M,Fanático,2
+1692,59,M,Fan,1
+7533,20,M,Fanático,1
+8933,42,F,Súper Fanático,3
+3080,54,F,Fanático,2
+8797,43,F,Fanático,1
+4494,36,F,Fanático,2
+9462,47,M,Fanático,2
+6606,22,M,Fanático,1
+9465,23,F,Súper Fanático,1
+1421,58,F,Fanático,1
+4096,43,M,Fanático,1
+6882,49,F,Fanático,1
+9415,39,M,Fanático,2
+9456,55,F,Fan,1
+7559,41,M,Fanático,1
+6673,31,M,Súper Fanático,5
+2353,32,F,Súper Fanático,1
+4854,37,M,Fanático,2
+6506,27,M,Fan,1
+3395,26,F,Súper Fanático,5
+6515,48,F,Súper Fanático,1
+4138,20,M,Fanático,1
+5270,49,M,Fan,1
+4567,22,M,Fan,1
+7477,51,M,Fanático,1
+2016,22,M,Súper Fanático,4
+4496,23,M,Fanático,2
+3313,34,M,Fanático,2
+5056,33,M,Fanático,2
+2689,35,M,Súper Fanático,5
+6649,41,F,Súper Fanático,5
+2819,42,M,Fanático,1
+2342,21,F,Súper Fanático,5
+3226,26,M,Fanático,1
+8235,52,F,Súper Fanático,2
+6089,43,F,Fanático,2
+5041,49,F,Fanático,1
+2784,28,F,Fan,1
+6428,36,F,Fan,1
+7219,35,M,Súper Fanático,3
+9890,55,M,Fanático,2
+3938,28,M,Súper Fanático,2
+4197,18,F,Fanático,1
+6730,26,M,Fanático,1
+2366,38,M,Súper Fanático,4
+5539,39,M,Fanático,2
+5086,47,M,Fanático,1
+7040,18,F,Fan,1
+5758,46,M,Fan,1
+6014,30,M,Súper Fanático,3
+1490,42,M,Fanático,2
+2940,50,M,Súper Fanático,2
+5908,41,F,Fanático,1
+4159,41,F,Fanático,1
+1681,31,M,Fanático,1
+5340,45,M,Fan,1
+8966,20,F,Fanático,1
+7772,33,M,Súper Fanático,1
+9488,38,M,Fan,1
+3296,24,F,Fanático,1
+2677,31,F,Fan,1
+6622,35,M,Súper Fanático,1
+2248,33,F,Fan,1
+8036,40,M,Súper Fanático,1
+3048,58,F,Súper Fanático,5
+3476,35,M,Fanático,1
+4553,41,M,Fanático,2
+1220,36,M,Fanático,1
+8192,49,M,Fanático,2
+8209,40,M,Súper Fanático,2
+2871,35,M,Fan,1
+9536,45,M,Fanático,1
+8237,54,F,Fanático,1
+3598,31,M,Fanático,1
+7899,18,F,Fanático,1
+5476,23,M,Fanático,2
+7297,58,F,Súper Fanático,5
+8987,38,M,Fanático,1
+1787,54,M,Fan,1
+6033,19,M,Fanático,1
+6214,59,F,Fan,1
+8533,35,M,Fanático,1
+8465,36,M,Fanático,1
+1548,30,F,Fanático,2
+9264,45,M,Súper Fanático,5
+1178,26,M,Fan,1
+1798,55,M,Fanático,1
+3795,59,F,Fanático,2
+8297,26,F,Fanático,2
+1731,57,F,Fan,1
+3933,25,F,Fanático,2
+6074,23,F,Fan,1
+7326,18,M,Súper Fanático,1
+6586,54,M,Súper Fanático,3
+4655,52,F,Fanático,2
+3220,59,F,Súper Fanático,4
+7691,27,M,Fanático,1
+7358,26,F,Fan,1
+8037,49,M,Súper Fanático,4
+5994,55,M,Fanático,1
+7221,38,M,Fanático,2
+7322,32,M,Fan,1
+1378,37,M,Súper Fanático,1
+1615,40,M,Súper Fanático,4
+2754,27,F,Súper Fanático,1
+4158,46,M,Fanático,1
+5938,55,F,Fanático,2
+9881,43,F,Súper Fanático,3
+7120,39,M,Fanático,2
+2412,35,F,Fanático,1
+6806,22,F,Fan,1
+2340,53,F,Fanático,2
+6969,24,M,Fanático,2
+7414,33,F,Fanático,1
+6480,26,M,Fan,1
+9737,29,F,Fanático,2
+8265,43,F,Fanático,1
+4998,49,F,Fanático,2
+5645,47,F,Fan,1
+5435,32,F,Fan,1
+2045,19,M,Fanático,1
+4199,40,M,Fan,1
+8440,31,F,Fan,1
+1596,37,M,Fan,1
+7468,37,F,Fanático,2
+2551,49,F,Fan,1
+7852,35,M,Fan,1
+6953,41,F,Fan,1
+3659,47,M,Fanático,1
+3925,56,F,Súper Fanático,1
+8104,30,M,Fan,1
+4153,46,F,Fan,1
+2128,36,M,Fanático,2
+3365,42,F,Súper Fanático,3
+3741,43,M,Fanático,1
+1228,37,F,Fanático,1
+9617,55,F,Súper Fanático,3
+1918,54,F,Fan,1
+3809,45,F,Fanático,2
+4779,53,M,Fan,1
+8942,28,F,Fan,1
+9243,40,M,Fanático,2
+2820,20,F,Súper Fanático,3
+3568,33,M,Fan,1
+1240,56,M,Fan,1
+6077,59,M,Fanático,2
+9802,37,F,Fan,1
+4605,45,M,Fan,1
+3173,30,M,Fanático,2
+7568,18,F,Fanático,2
+7080,43,M,Fanático,2
+4830,22,M,Fanático,1
+2230,53,M,Súper Fanático,1
+2910,19,F,Fanático,2
+9107,29,M,Fan,1
+2916,47,M,Fan,1
+7996,20,M,Súper Fanático,4
+7464,21,M,Fanático,1
+9683,57,F,Fanático,2
+7681,52,F,Fan,1
+1585,54,F,Fan,1
+1534,56,F,Súper Fanático,3
+7957,57,M,Fanático,2
+6325,49,M,Fanático,2
+1001,56,M,Súper Fanático,4
+9316,20,M,Fanático,1
+2861,42,M,Fan,1
+9081,50,M,Súper Fanático,5
+6398,59,M,Fanático,2
+4918,18,F,Súper Fanático,4
+7937,20,M,Fanático,2
+9758,48,F,Fanático,1
+4140,33,M,Fanático,1
+2590,52,F,Fan,1
+5943,49,F,Fan,1
+4225,55,M,Fan,1
+3460,44,F,Fan,1
+3728,34,F,Fanático,1
+7430,55,F,Fanático,2
+1616,22,M,Fan,1
+3630,53,M,Fanático,1
+9861,22,M,Fan,1
+7269,56,M,Fanático,2
+5078,30,F,Fan,1
+5151,18,M,Fan,1
+1283,19,M,Fan,1
+5593,33,F,Fanático,2
+5734,44,M,Fanático,2
+8366,50,F,Fan,1
+3223,54,F,Fan,1
+4237,32,M,Fan,1
+1343,35,F,Fanático,2
+5823,33,M,Fan,1
+4201,41,F,Fanático,1
+8127,32,F,Fanático,2
+2738,34,F,Fanático,1
+1912,39,M,Fan,1
+1495,46,M,Fan,1
+1156,31,F,Fanático,2
+8246,40,F,Fan,1
+1996,39,M,Fanático,1
+7481,49,F,Fan,1
+1786,57,M,Fanático,2
+4767,30,M,Súper Fanático,2
+8216,34,F,Fanático,2
+9052,54,M,Súper Fanático,1
+8055,45,F,Fanático,1
+7704,37,M,Súper Fanático,4
+3511,49,M,Fan,1
+5582,57,M,Súper Fanático,4
+3713,26,F,Fan,1
+1723,28,F,Súper Fanático,1
+3506,26,F,Fan,1
+6680,39,F,Fanático,1
+9747,38,F,Fanático,2
+4661,31,M,Fanático,2
+8067,23,F,Súper Fanático,5
+2480,53,F,Fan,1
+7447,26,M,Súper Fanático,4
+2299,21,M,Fanático,2
+8489,33,F,Fanático,2
+3721,18,F,Fan,1
+9429,34,M,Fanático,2
+1523,23,M,Fanático,1
+6365,38,F,Fanático,1
+4122,47,F,Fanático,2
+8322,33,M,Súper Fanático,1
+7500,56,M,Súper Fanático,5
+7666,20,F,Fanático,1
+7085,21,M,Fanático,1
+9738,54,M,Súper Fanático,5
+4723,46,F,Fanático,1
+4309,45,F,Fan,1
+7665,42,M,Súper Fanático,1
+6204,42,M,Fan,1
+4203,26,M,Fanático,1
+1018,32,F,Fanático,2
+6200,39,M,Fan,1
+1773,58,M,Fanático,1
+4518,26,M,Fanático,1
+7984,35,F,Súper Fanático,3
+2674,57,F,Fanático,1
+1739,54,F,Fanático,2
+6127,35,F,Fanático,1
+5555,27,M,Fan,1
+3283,41,M,Fan,1
+7998,19,F,Fanático,1
+6413,26,F,Fanático,2
+3603,45,M,Fan,1
+9084,31,F,Fan,1
+7200,38,M,Súper Fanático,4
+9119,51,M,Fanático,1
+1755,18,M,Fan,1
+8347,33,M,Súper Fanático,3
+9216,37,M,Súper Fanático,3
+7401,46,F,Fanático,1
+3276,25,F,Fanático,2
+1308,25,M,Fan,1
+9368,49,M,Fanático,2
+4257,19,F,Súper Fanático,1
+1942,56,F,Súper Fanático,4
+4381,34,M,Fan,1
+5887,37,M,Fan,1
+2927,47,M,Fanático,2
+6378,45,F,Fan,1
+4326,23,F,Fanático,1
+2131,47,M,Fanático,2
+6092,30,M,Fan,1
+9520,59,F,Fanático,1
+6636,29,F,Fanático,1
+3892,43,M,Fanático,2
+1654,39,F,Súper Fanático,3
+9446,24,F,Fan,1
+7154,52,M,Fan,1
+7639,32,M,Súper Fanático,2
+2008,41,F,Fanático,2
+9075,51,M,Fanático,2
+9447,18,F,Fanático,2
+8688,43,M,Súper Fanático,1
+3803,26,M,Súper Fanático,4
+1877,59,M,Fanático,2
+3665,28,M,Súper Fanático,3
+3637,35,M,Fan,1
+9613,46,F,Fanático,2
+1544,51,F,Fanático,1
+9959,47,F,Fanático,2
+7520,29,M,Fanático,1
+9412,23,M,Súper Fanático,5
+3569,26,M,Fanático,2
+4985,40,F,Súper Fanático,5
+5310,59,M,Súper Fanático,3
+5196,28,F,Fanático,1
+9417,51,F,Fan,1
+8422,22,F,Fanático,2
+4407,30,M,Súper Fanático,5
+3793,50,F,Fanático,1
+8952,49,F,Fan,1
+5951,53,F,Fanático,1
+9624,29,F,Fanático,1
+1835,30,M,Súper Fanático,2
+8054,36,M,Fan,1
+5573,50,M,Súper Fanático,3
+1706,48,M,Fanático,1
+7997,23,F,Fanático,1
+9779,54,M,Fanático,2
+8211,43,F,Fanático,1
+7811,57,M,Fanático,2
+4057,43,F,Fan,1
+1402,52,F,Fanático,2
+7349,46,M,Fan,1
+7571,38,M,Fanático,1
+8674,57,M,Fanático,1
+1452,58,M,Fanático,2
+2381,55,M,Fanático,1
+3738,48,M,Súper Fanático,2
+7747,25,F,Fanático,2
+8892,32,M,Fanático,2
+2168,48,F,Fanático,2
+4645,37,M,Fan,1
+4367,57,F,Fan,1
+4555,35,M,Fanático,1
+6111,47,F,Súper Fanático,3
+4626,44,M,Fan,1
+6497,23,M,Fanático,1
+7238,24,F,Fan,1
+9283,38,F,Fan,1
+6011,34,M,Fan,1
+2410,28,F,Súper Fanático,4
+8394,20,F,Fan,1
+5332,55,F,Fan,1
+5052,19,F,Fanático,2
+9564,58,M,Fanático,2
+3248,53,F,Fanático,2
+7354,35,M,Fanático,2
+1314,32,M,Súper Fanático,1
+6585,40,M,Fanático,1
+9134,41,M,Fanático,1
+7567,40,F,Fan,1
+7117,58,M,Fanático,2
+3243,40,M,Súper Fanático,4
+6176,26,F,Fanático,2
+9720,20,M,Fan,1
+4406,43,F,Fanático,1
+1919,51,M,Fanático,1
+1418,41,F,Fanático,1
+8378,54,F,Fanático,1
+4392,32,M,Fanático,1
+7784,29,M,Fanático,2
+2850,45,M,Fan,1
+8194,28,F,Fanático,2
+1678,40,F,Fanático,2
+2502,28,F,Fan,1
+6027,58,M,Fanático,2
+7654,48,M,Fanático,2
+7856,39,F,Fan,1
+6517,59,M,Súper Fanático,3
+7310,46,M,Fanático,2
+4483,55,M,Fanático,2
+7378,19,M,Fanático,1
+4382,30,F,Súper Fanático,4
+6816,58,M,Fanático,2
+7276,28,M,Fan,1
+7523,22,M,Fanático,1
+7606,24,M,Fan,1
+3064,45,F,Fanático,1
+3042,28,M,Fanático,2
+4557,49,M,Súper Fanático,3
+4250,35,F,Fan,1
+9177,56,M,Fanático,1
+3261,58,M,Súper Fanático,2
+1508,57,F,Fan,1
+9879,58,F,Fanático,2
+6495,20,M,Súper Fanático,2
+4209,42,F,Fan,1
+8890,28,M,Fanático,2
+5354,25,F,Fanático,2
+4127,53,M,Fan,1
+4395,20,M,Fanático,2
+1354,37,M,Fanático,2
+9257,50,M,Fanático,1
+9418,43,F,Fan,1
+2036,50,F,Fan,1
+6065,55,M,Fan,1
+7183,32,F,Fanático,2
+6666,21,M,Fan,1
+4945,42,F,Fanático,2
+8746,42,M,Fan,1
+5934,45,F,Fan,1
+2093,26,F,Fanático,2
+7539,43,M,Fanático,2
+9060,55,M,Fanático,2
+5095,57,M,Fanático,2
+8768,22,M,Súper Fanático,5
+4932,44,F,Fanático,1
+6408,59,F,Fanático,2
+8406,28,M,Fanático,2
+6285,18,F,Fan,1
+8645,31,M,Fan,1
+9273,49,F,Fanático,2
+8777,34,M,Fanático,1
+6956,32,M,Fanático,2
+3790,24,M,Fanático,1
+8959,33,M,Fanático,1
+4933,47,F,Fan,1
+1564,58,M,Fan,1
+5566,29,M,Fan,1
+4636,54,F,Fanático,2
+2928,32,M,Fan,1
+2017,31,F,Fanático,2
+7240,41,F,Fan,1
+6322,51,F,Fan,1
+8718,21,M,Fanático,2
+5042,36,F,Fanático,2
+9638,20,M,Fanático,1
+8210,53,F,Fanático,1
+2986,57,M,Súper Fanático,3
+5305,18,F,Fanático,2
+4007,26,F,Fanático,2
+3824,54,F,Fan,1
+4185,38,F,Fanático,1
+1501,45,M,Fan,1
+4566,26,M,Súper Fanático,2
+1386,34,M,Fan,1
+6820,53,M,Súper Fanático,2
+5366,43,M,Fan,1
+4727,46,M,Fan,1
+1148,45,F,Fan,1
+4749,44,M,Fanático,2
+9186,45,M,Fanático,1
+5551,23,F,Fan,1
+9677,51,M,Fanático,2
+2982,55,F,Fanático,2
+3311,32,F,Fanático,2
+1604,30,M,Fanático,1
+5597,53,M,Fan,1
+8532,34,M,Fanático,1
+1838,51,F,Fanático,1
+1847,18,M,Fanático,2
+7575,36,M,Fan,1
+6192,59,M,Fanático,1
+5311,37,F,Fan,1
+2564,43,F,Súper Fanático,2
+7058,29,M,Súper Fanático,5
+1726,33,M,Fanático,1
+7697,57,M,Fan,1
+1282,27,F,Fan,1
+3970,47,F,Fanático,1
+1947,22,F,Súper Fanático,2
+1066,19,F,Fan,1
+9505,59,M,Súper Fanático,2
+1804,21,F,Fan,1
+7720,53,M,Fanático,2
+7906,59,M,Fanático,2
+5141,49,F,Súper Fanático,3
+6577,21,M,Súper Fanático,3
+2507,34,M,Fanático,1
+2294,18,F,Fanático,1
+9014,27,M,Súper Fanático,1
+2603,57,M,Fanático,1
+3441,47,F,Fan,1
+4787,56,M,Fanático,1
+3208,28,F,Fan,1
+7014,57,M,Fanático,1
+9867,33,M,Súper Fanático,5
+6231,26,M,Súper Fanático,3
+3040,56,F,Súper Fanático,1
+5402,33,F,Fanático,2
+6795,58,F,Fanático,1
+8633,45,F,Fan,1
+6009,19,M,Fan,1
+2044,57,F,Fanático,2
+2582,59,M,Fanático,1
+2620,41,M,Fanático,1
+5766,58,M,Fanático,1
+7622,25,F,Fanático,2
+1100,37,M,Fanático,1
+5271,19,F,Fanático,1
+7073,29,M,Fan,1
+8396,59,F,Fan,1
+5235,34,M,Súper Fanático,3
+9553,20,M,Fanático,1
+5067,34,F,Fan,1
+8281,46,F,Fanático,1
+1719,55,F,Fanático,1
+5157,35,F,Fan,1
+7713,59,M,Fanático,2
+4936,32,M,Fan,1
+7379,45,F,Súper Fanático,1
+5652,55,F,Fanático,2
+8456,51,M,Fanático,1
+5569,19,M,Súper Fanático,5
+7041,57,F,Fan,1
+2164,22,F,Fanático,1
+1470,35,M,Súper Fanático,3
+2468,35,F,Fan,1
+9363,48,M,Fan,1
+6073,53,F,Fan,1
+9249,33,F,Súper Fanático,2
+5492,48,M,Súper Fanático,4
+1312,58,F,Súper Fanático,1
+6317,37,M,Fanático,1
+7841,56,M,Fan,1
+8129,39,M,Fan,1
+3147,26,M,Súper Fanático,3
+8866,54,M,Fan,1
+3926,51,F,Súper Fanático,1
+5376,47,M,Fan,1
+9159,43,F,Fanático,1
+1701,36,F,Fan,1
+7825,40,M,Fanático,1
+5264,47,M,Fanático,2
+8776,48,M,Súper Fanático,3
+7875,55,M,Súper Fanático,3
+8856,54,M,Súper Fanático,3
+4022,29,F,Fan,1
+7694,20,F,Fanático,2
+1752,34,F,Fanático,2
+2392,32,F,Súper Fanático,5
+1677,49,F,Fanático,1
+7985,23,M,Súper Fanático,5
+5006,55,M,Fanático,2
+6782,20,F,Fanático,2
+4766,55,F,Fanático,1
+1078,41,F,Fanático,2
+8064,58,F,Súper Fanático,4
+2209,50,F,Fanático,1
+3178,47,M,Fan,1
+3370,46,M,Fanático,1
+6579,36,M,Fan,1
+7794,33,F,Fanático,2
+1964,54,M,Fanático,1
+4675,47,M,Fanático,2
+6643,30,F,Fanático,1
+1028,50,M,Fan,1
+3024,26,F,Fan,1
+8399,20,F,Fanático,1
+5601,24,F,Fanático,1
+2416,49,F,Fanático,1
+2428,53,F,Súper Fanático,1
+5474,30,F,Fanático,1
+2040,50,F,Fan,1
+5326,54,F,Fan,1
+3349,35,M,Fanático,1
+1392,33,F,Fan,1
+6057,36,F,Fan,1
+7363,49,M,Fanático,1
+2400,34,M,Fan,1
+4457,53,M,Fanático,2
+1453,42,M,Fan,1
+1818,47,M,Fan,1
+8727,46,F,Fan,1
+3418,43,M,Súper Fanático,3
+3017,43,F,Fan,1
+5792,19,F,Fan,1
+3868,55,F,Fanático,2
+4543,21,F,Fan,1
+7343,37,F,Súper Fanático,5
+9699,22,F,Fan,1
+1331,30,M,Fanático,2
+9169,49,M,Fanático,1
+1648,32,F,Fanático,1
+8135,57,M,Súper Fanático,3
+8492,49,F,Fan,1
+4401,18,F,Fanático,2
+5241,52,M,Súper Fanático,5
+5155,54,M,Súper Fanático,1
+6660,20,M,Fanático,1
+2176,32,M,Súper Fanático,3
+3233,45,F,Súper Fanático,4
+3513,59,M,Fanático,1
+8910,39,M,Fanático,1
+2951,38,M,Fanático,1
+8799,38,F,Fanático,2
+1595,46,M,Fanático,1
+5439,24,F,Fan,1
+1858,26,F,Fanático,1
+5317,26,M,Súper Fanático,1
+2447,42,F,Fan,1
+7952,35,M,Fanático,1
+2672,55,F,Fanático,1
+5924,45,F,Súper Fanático,1
+2221,27,M,Súper Fanático,3
+9428,24,M,Fan,1
+8710,25,F,Fanático,1
+4513,39,F,Fanático,1
+3072,19,F,Fanático,2
+9328,43,F,Fanático,2
+5415,23,M,Súper Fanático,2
+4870,55,M,Fanático,1
+1938,31,F,Fan,1
+3510,48,M,Fan,1
+4690,39,M,Fan,1
+9405,36,M,Fan,1
+9314,22,F,Fanático,2
+4981,36,F,Súper Fanático,1
+8095,30,M,Fanático,2
+4771,52,F,Fanático,1
+6538,26,F,Fanático,1
+8111,46,M,Fan,1
+5607,48,M,Súper Fanático,1
+5491,25,F,Fanático,2
+6356,33,M,Súper Fanático,5
+2422,22,F,Fanático,1
+6463,23,F,Fan,1
+9420,48,F,Fanático,2
+8847,58,M,Súper Fanático,5
+3321,30,M,Fan,1
+6432,48,M,Fanático,1
+7854,25,M,Fan,1
+8637,36,M,Súper Fanático,2
+4867,28,F,Fanático,1
+3327,29,F,Fanático,2
+7452,30,F,Fanático,1
+7404,36,M,Súper Fanático,1
+5381,44,F,Fanático,1
+8460,20,M,Fanático,1
+5581,52,M,Súper Fanático,5
+3001,23,M,Fanático,2
+2030,42,M,Fanático,2
+2220,35,M,Fan,1
+9074,32,F,Fan,1
+7598,58,M,Fan,1
+6993,20,M,Súper Fanático,1
+5911,28,F,Fan,1
+1792,56,M,Fan,1
+4110,42,F,Fanático,2
+2214,57,F,Fanático,1
+8314,48,F,Fan,1
+2658,25,M,Fanático,2
+6917,40,F,Fan,1
+4845,50,M,Fanático,2
+5808,52,M,Fanático,1
+1224,48,M,Fanático,2
+2888,42,M,Fanático,2
+6246,40,M,Súper Fanático,1
+7643,19,M,Fanático,1
+2777,21,F,Fan,1
+2325,46,F,Súper Fanático,3
+5656,58,F,Fanático,1
+2242,32,F,Fan,1
+4232,47,F,Fan,1
+2824,57,F,Súper Fanático,3
+5060,43,F,Fanático,1
+2721,18,F,Fanático,2
+1064,30,F,Fanático,1
+2469,57,M,Fanático,2
+4622,48,F,Fan,1
+1823,50,F,Súper Fanático,2
+8420,47,M,Fanático,2
+3902,24,F,Fanático,1
+4641,31,F,Fanático,1
+9587,55,M,Fanático,1
+5335,33,M,Fanático,2
+6494,49,M,Fan,1
+3711,20,F,Fanático,1
+7273,26,M,Súper Fanático,1
+9817,44,F,Súper Fanático,2
+4994,55,M,Fanático,1
+2736,59,M,Fan,1
+9856,18,M,Fan,1
+1667,58,F,Súper Fanático,3
+4620,39,F,Fanático,1
+2075,38,F,Fanático,2
+3384,45,F,Súper Fanático,2
+9047,57,F,Fanático,2
+7895,30,M,Súper Fanático,4
+8548,41,M,Fanático,1
+7163,30,F,Fanático,1
+3423,31,M,Fanático,2
+3908,18,M,Fanático,1
+4883,29,F,Fanático,1
+5598,39,F,Fanático,1
+9593,52,M,Fanático,1
+9427,24,M,Fan,1
+2341,19,F,Fanático,2
+1393,25,F,Fanático,1
+1132,40,F,Fan,1
+4770,18,F,Fanático,2
+3835,47,F,Fanático,2
+7833,20,F,Fanático,2
+2963,29,F,Fanático,2
+1966,47,F,Fanático,2
+4061,35,F,Fan,1
+9101,41,M,Fan,1
+4179,42,F,Fanático,2
+3362,26,F,Súper Fanático,1
+2726,21,F,Fanático,1
+8013,26,F,Fan,1
+5584,23,M,Fanático,2
+1356,38,F,Súper Fanático,2
+5647,55,M,Fan,1
+7642,28,F,Súper Fanático,2
+1292,54,M,Fan,1
+3686,37,M,Fanático,1
+3374,50,M,Fan,1
+4863,28,F,Fan,1
+9226,37,F,Fan,1
+4291,30,M,Fanático,2
+2558,25,F,Fan,1
+4384,37,M,Fanático,1
+8756,59,F,Fanático,2
+6755,54,F,Fan,1
+7372,20,M,Súper Fanático,2
+1358,42,F,Fan,1
+4896,47,M,Fan,1
+7941,40,M,Fan,1
+1091,18,F,Fanático,2
+7592,20,F,Fanático,2
+9128,20,F,Fanático,2
+8065,48,M,Fanático,1
+2699,18,F,Fan,1
+8846,28,M,Fanático,2
+2079,47,F,Fanático,2
+5508,56,M,Fanático,2
+8233,23,M,Fan,1
+8258,55,F,Fan,1
+3986,26,M,Fanático,2
+4412,39,M,Fanático,2
+5543,21,M,Súper Fanático,2
+7597,46,M,Fan,1
+3934,22,M,Fanático,1
+9940,55,M,Fanático,2
+9625,59,F,Súper Fanático,3
+4671,20,F,Fanático,1
+8001,59,F,Fan,1
+6061,46,M,Súper Fanático,2
+4264,54,M,Fanático,1
+3763,42,F,Súper Fanático,2
+4241,25,M,Súper Fanático,3
+6411,23,M,Fan,1
+6260,18,M,Fanático,2
+5409,19,F,Fanático,1
+7843,54,M,Fan,1
+7214,30,M,Fanático,2
+9791,44,M,Fan,1
+5864,25,M,Fan,1
+4284,42,M,Fanático,2
+1789,44,F,Fan,1
+2309,21,M,Súper Fanático,3
+6389,20,M,Fanático,2
+9215,26,F,Fanático,1
+2231,34,M,Fan,1
+7131,21,M,Fan,1
+5480,23,M,Fanático,2
+1105,32,F,Súper Fanático,2
+1669,44,M,Fan,1
+1109,59,F,Fan,1
+7728,41,M,Súper Fanático,3
+7499,45,F,Súper Fanático,3
+8619,59,F,Fanático,1
+1873,33,F,Fan,1
+9837,59,M,Fanático,2
+1783,42,M,Fan,1
+1486,59,M,Fanático,2
+4196,39,F,Fan,1
+9572,30,F,Fanático,1
+1238,44,F,Fanático,2
+2105,42,F,Fanático,2
+2667,32,F,Fanático,1
+2425,21,F,Fanático,1
+9023,23,F,Fanático,2
+2490,48,M,Fan,1
+8714,24,M,Fan,1
+1832,37,F,Súper Fanático,3
+3440,39,F,Fanático,2
+1440,57,M,Fan,1
+3367,52,F,Súper Fanático,4
+4034,51,F,Fanático,2
+6938,22,M,Fanático,2
+2465,44,F,Fanático,1
+6539,49,F,Fanático,1
+5541,48,F,Fanático,2
+6641,47,F,Fan,1
+7912,56,M,Fanático,1
+3401,47,F,Fanático,1
+9974,39,M,Fanático,2
+6615,41,M,Súper Fanático,3
+3956,44,F,Fan,1
+6087,45,F,Fanático,2
+3170,59,M,Fanático,1
+7458,18,M,Fanático,1
+7853,31,M,Fanático,2
+4091,31,M,Súper Fanático,5
+9984,33,M,Fan,1
+1801,33,M,Fanático,1
+4349,47,M,Fan,1
+1583,30,F,Fanático,2
+8694,44,F,Fanático,1
+1788,21,F,Súper Fanático,4
+3889,44,M,Súper Fanático,4
+4272,30,F,Súper Fanático,2
+7902,47,F,Fan,1
+3492,26,M,Fan,1
+7745,18,F,Fanático,1
+6298,43,F,Fanático,2
+5047,53,F,Fanático,2
+7302,22,M,Fan,1
+1680,52,F,Súper Fanático,4
+9001,38,F,Fanático,2
+9859,22,M,Fanático,1
+3463,38,M,Fan,1
+4167,35,F,Fan,1
+4227,32,F,Fan,1
+5477,21,M,Fan,1
+3317,36,M,Fanático,2
+9444,22,F,Súper Fanático,2
+2259,27,F,Fan,1
+5323,24,F,Fan,1
+8844,44,F,Fan,1
+3338,20,F,Fanático,1
+7791,55,M,Fan,1
+9627,56,F,Súper Fanático,1
+7979,34,M,Súper Fanático,5
+7524,41,F,Fan,1
+1076,30,M,Fanático,1
+4346,35,F,Fanático,1
+4148,24,F,Fan,1
+1244,26,M,Fan,1
+9333,44,F,Súper Fanático,1
+8310,23,M,Fan,1
+8325,59,M,Fan,1
+6387,48,M,Fanático,1
+2821,18,F,Fanático,1
+6646,25,M,Súper Fanático,3
+5701,41,M,Fanático,1
+3877,43,M,Súper Fanático,3
+9749,33,M,Fanático,2
+1939,41,F,Fan,1
+2725,26,F,Fan,1
+6985,33,M,Fan,1
+4126,20,M,Súper Fanático,2
+2543,25,M,Fan,1
+6902,19,M,Fanático,1
+6221,24,F,Súper Fanático,3
+5144,34,F,Fanático,2
+5890,53,M,Fanático,1
+5228,47,M,Súper Fanático,3
+4229,53,M,Fanático,2
+7265,55,M,Fan,1
+3689,18,F,Súper Fanático,2
+7152,38,F,Fanático,1
+4621,31,F,Fanático,1
+6310,59,F,Fanático,1
+1652,58,M,Fan,1
+2645,50,M,Súper Fanático,3
+5759,33,M,Fan,1
+4688,54,F,Fan,1
+5243,24,F,Fan,1
+7507,32,F,Súper Fanático,1
+7127,32,M,Fan,1
+9459,22,M,Súper Fanático,3
+6130,40,F,Súper Fanático,2
+5784,23,M,Súper Fanático,3
+2232,32,F,Fan,1
+9808,32,M,Súper Fanático,2
+9205,23,M,Súper Fanático,1
+7766,43,F,Fanático,2
+1496,39,F,Súper Fanático,2
+1909,49,M,Fanático,2
+3431,26,M,Fanático,2
+2426,29,M,Fanático,2
+7330,40,M,Fan,1
+8464,28,F,Fan,1
+8195,45,F,Fan,1
+2789,59,F,Súper Fanático,4
+8598,29,F,Fanático,2
+4653,57,F,Súper Fanático,3
+1973,51,M,Súper Fanático,4
+8433,45,F,Fanático,2
+6873,42,M,Súper Fanático,2
+6939,42,M,Fan,1
+4239,55,F,Fanático,2
+5537,24,M,Fanático,2
+9469,31,F,Fanático,1
+8741,53,M,Fan,1
+8436,20,F,Fan,1
+9160,33,M,Fan,1
+4873,46,F,Fan,1
+1352,35,F,Fanático,1
+6344,24,M,Fanático,2
+1117,53,M,Fan,1
+9298,41,M,Fanático,1
+8012,34,M,Súper Fanático,4
+6329,49,F,Fanático,1
+5018,29,M,Fan,1
+4380,54,F,Fanático,1
+2879,54,F,Fanático,2
+9978,31,F,Fanático,1
+6392,43,F,Fan,1
+4052,35,F,Súper Fanático,5
+5803,29,F,Fanático,1
+6086,46,M,Fan,1
+4160,46,M,Fanático,2
+9903,58,M,Fanático,1
+3648,43,M,Fan,1
+6769,27,F,Fan,1
+1886,28,F,Súper Fanático,5
+2785,56,F,Súper Fanático,4
+4118,48,M,Fanático,1
+1906,52,M,Fanático,1
+8769,44,F,Súper Fanático,5
+8939,51,F,Fan,1
+4081,42,F,Fanático,1
+3107,26,M,Fan,1
+6006,44,F,Fanático,1
+1625,48,F,Fanático,1
+9282,35,F,Fan,1
+7007,49,F,Fanático,2
+8928,36,M,Fanático,1
+5490,46,M,Fanático,1
+2597,44,M,Fanático,1
+3670,34,F,Fanático,1
+8432,30,F,Fanático,2
+5725,34,M,Fanático,2
+9759,35,F,Fanático,1
+8002,50,F,Súper Fanático,3
+9831,28,M,Fanático,2
+3985,20,M,Fanático,2
+4988,46,F,Fan,1
+1256,43,M,Súper Fanático,5
+1037,28,M,Fan,1
+2832,19,F,Fan,1
+8600,31,M,Fan,1
+7411,30,M,Fan,1
+2975,23,F,Fanático,2
+5515,25,F,Súper Fanático,1
+1976,38,M,Súper Fanático,2
+1045,30,F,Fanático,2
+9983,26,M,Súper Fanático,2
+5183,33,F,Fanático,1
+7032,42,M,Fanático,1
+4644,42,M,Fanático,2
+3108,35,M,Súper Fanático,3
+4900,18,M,Súper Fanático,5
+5568,49,F,Fan,1
+2845,19,M,Fan,1
+2509,42,M,Súper Fanático,2
+2578,55,M,Súper Fanático,1
