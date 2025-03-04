@@ -65,7 +65,7 @@ Visualize the total ticket sales in March, this chart can be filtered by Cinema 
 ### Stacked Bar Chart
 Explore the total ticket and concession sales in March, this chart can be filtered by Cinema and Movie Theater Type.
 
-### KPI
+### KPI Card
 Identify the percentage of total cinema revenue contributed by concession sales.
 
 ### Word Cloud
