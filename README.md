@@ -49,7 +49,7 @@ Ensure you have the following installed:
 2. Open Power BI Desktop and load the datasets.
 3. Import the Power BI dashboard template included in the repository.
 
-### Usage
+## Usage
 
 ### Running the Dashboard
 1. Open the Power BI dashboard file.
