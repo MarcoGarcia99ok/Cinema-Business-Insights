@@ -39,11 +39,11 @@ A Power BI dashboard analyzing sales and attendance at Cinépolis theaters in Sa
 Ensure you have the following installed:
 - Power BI Desktop
 - Access to the provided datasets:
-  - `customers.csv` (Customer demographics and membership details)
-  - `concession_sales.csv` (Concession purchase data)
-  - `ticket_sales.csv` (Daily ticket sales data)
+  - `Clientes.csv` (Customer demographics and membership details)
+  - `ComprasDulcería.csv` (Concession purchase data)
+  - `VentasBoletos.csv` (Daily ticket sales data)
 
-### Installation
+## Installation
 
 1. Clone this repository or download the files.
 2. Open Power BI Desktop and load the datasets.
@@ -91,9 +91,9 @@ View a detailed pie chart displaying the distribution of tickets sold by cinema 
 
 ## Data Sources
 The following CSV files were used:
-- **customers.csv** (Customer demographics and membership details)
-- **concession_sales.csv** (Concession purchase data)
-- **ticket_sales.csv** (Daily ticket sales data)
+- **Clientes.csv** (Customer demographics and membership details)
+- **ComprasDulcería.csv** (Concession purchase data)
+- **VentasBoletos.csv** (Daily ticket sales data)
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request with suggestions or improvements.
